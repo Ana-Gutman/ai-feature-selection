@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code config
+.vscode/
+
+# macOS / Linux / Windows trash files
+.DS_Store
+*.swp
+*.bak
+*.tmp
+Thumbs.db
+
+# Python egg metadata
+*.egg-info/
+*.egg
+
+# Logs
+*.log
+

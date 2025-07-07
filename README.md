@@ -31,5 +31,4 @@ jupyter notebook
 ```
 
 ## 📌 Project Context
-This project was completed as part of the final coursework for the "Inteligencia Artificial" class at ORT University (2025).
-It demonstrates practical use of dimensionality reduction to improve model performance and interpretability.
+This project was completed as part of the final coursework for the "Inteligencia Artificial" course at Universidad de Sevilla (2024).

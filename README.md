@@ -32,3 +32,6 @@ jupyter notebook
 
 ## 📌 Project Context
 This project was completed as part of the final coursework for the "Inteligencia Artificial" course at Universidad de Sevilla (2024).
+
+## [Full documentation (Spanish)](./Memoria.pdf)
+
